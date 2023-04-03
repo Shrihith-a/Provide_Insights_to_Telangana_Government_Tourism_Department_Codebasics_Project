@@ -1,6 +1,7 @@
-<h1 style="text-align:center; font-family: Trebuchet MS; padding: 12px; font-size: 48px; color: #BA1141; line-height: 1.25;"><b>🔮 Provide Insights to Telangana Government Tourism_Department🔮</b></h1>
-<h2 style="text-align:center; color: #0000FF ; font-size: 24px;">Codebasics Project</h2>
-<h3 style="text-align:center; color: #FF5C8A; font-size: 18px;">By Shrihith A </h3>
+# <div align="center">🔮 Provide Insights to Telangana Government Tourism_Department🔮</div>
+## <div align="center">Codebasics Project</div>
+### <div align="center">By Shrihith A</div>
+
 
 
 ---
