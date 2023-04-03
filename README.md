@@ -1,6 +1,6 @@
-# <div align="center">🔮 Provide Insights to Telangana Government Tourism_Department🔮</div>
-## <div align="center">Codebasics Project</div>
-### <div align="center">By Shrihith A</div>
+# <div align="center" style="background-color: #87CEEB; padding: 10px; color:000000">🔮 Provide Insights to Telangana Government Tourism_Department🔮</div>
+## <div align="center" style="background-color: #B0E0E6; padding: 10px; color:000000">Codebasics Project</div>
+### <div align="center" style="background-color: #1E90FF; padding: 10px; color:000000">By Shrihith A</div>
 
 
 
