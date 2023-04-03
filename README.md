@@ -1,1 +1,1 @@
-# Provide_Insights_to_Telangana_Government_Tourism_Department_Codebasics_Project
+# <h1 style="font-family: Trebuchet MS; padding: 12px; font-size: 48px; color: #BA1141; text-align: center; line-height: 1.25;"><b>🔮 Provide Insights to Telangana Government Tourism_Department🔮<span style="color: #0000FF "> Codebasics Project </span></b><br><span style="color: #FF5C8A; font-size: 24px">By Shrihith A </span></h1>
